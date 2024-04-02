@@ -4,6 +4,7 @@ public class Employee
 {
 	int id;
 	String name;
+	String cname;
 	 public Employee(int id,String name)
 	 {
 		 this.id=id;
@@ -29,6 +30,7 @@ public class Employee
 	public void m3()
 	{
 		System.out.println("M3");
-	}		
+	}
+	
 
 }
