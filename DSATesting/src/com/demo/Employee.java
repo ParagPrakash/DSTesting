@@ -33,8 +33,13 @@ public class Employee
 	}
 	public void m4()
 	{
-		System.out.println("M3");
+		System.out.println("M4");
 	}
+	public void m5()
+	{
+		System.out.println("M5");
+	}
+	
 	
 
 }
