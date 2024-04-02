@@ -14,7 +14,12 @@ public class Employee
 		Employee e=new Employee(100,"Savani");
 		System.out.println(e.id);
 		System.out.println(e.name);
+		e.m1();
 
 	}
+	public void m1()
+	{
+		System.out.println("M1");
+	}	
 
 }
