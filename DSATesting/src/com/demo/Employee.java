@@ -39,6 +39,10 @@ public class Employee
 	{
 		System.out.println("M5");
 	}
+	public void login()
+	{
+		System.out.println("Login");
+	}	
 	
 	
 
