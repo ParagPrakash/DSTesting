@@ -15,11 +15,16 @@ public class Employee
 		System.out.println(e.id);
 		System.out.println(e.name);
 		e.m1();
+		e.m2();
 
 	}
 	public void m1()
 	{
 		System.out.println("M1");
-	}	
+	}
+	public void m2()
+	{
+		System.out.println("M2");
+	}
 
 }
